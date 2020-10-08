@@ -21,3 +21,4 @@ Next, we wanted to sort the array using the bubble sort method. So, then I need 
 After that the program will run properly and provide a sorted list of arrays and time taken to sort the array list.
 
 ![](part-4.gif)
+
